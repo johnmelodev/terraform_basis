@@ -5,3 +5,13 @@ git commit -m "feat: add static site"
 git remote add origin 
 
 git push origin main
+
+NO GITHUB
+- settings
+- secrets
+
+CRIAMOS NOSSAS SECRETS
+- actions = create new secret = AWS Acess key id, github token
+
+GENERATE NEW TOKENS
+- tempo de expiracao
