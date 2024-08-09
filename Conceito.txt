@@ -1,0 +1,13 @@
+TERRAFORM
+- tool to create infrastrcuture as a code
+
+BUCKET
+- Forma de armazenar arquivos na AWS
+
+INFRASTRCUTURE AS A CODE
+
+- automatizar o processo de criacao de infra estrutura
+- padronizacao de nossa infraestrutura
+- tem o codigo prontinho para a infraestrutura backend
+- Replicar de forma facil
+- podemos definir erros
