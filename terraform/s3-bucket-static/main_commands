@@ -1,0 +1,7 @@
+Configurar Credenciais : Use variáveis de ambiente ou o arquivo de configuração da AWS.
+
+Inicializar Terraform : terraform init
+Planejar a Execução : terraform plan
+Aplicar as Alterações : terraform apply
+Verificar a Infraestrutura : Console da AWS ou terraform output
+Limpar a Infraestrutura : terraform destroy
